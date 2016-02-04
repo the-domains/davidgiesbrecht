@@ -1,0 +1,28 @@
+name: DavidGiesbrecht
+favicon: null
+layout_spectrum: 0.21353903110139072
+typography_spectrum: 0.8670951654203236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.22494542738422751
+  lightness: 0.6630001945886761
+  saturation: 0.9591072814073414
+  rhythmicContrast: 0.9369339856784791
+purpose: []
