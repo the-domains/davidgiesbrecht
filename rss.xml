@@ -4,21 +4,21 @@
         <description><![CDATA[David Giesbrecht - Still Photographer]]></description>
         <link>https://thegrid.ai/davidgiesbrecht/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 14:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 14:55:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davidgiesbrecht/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Film Stills]]></title>
+            <description><![CDATA[<article><h1>Film Stills</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e6e5a0d0747e859d8d45e81d0684fa27bbe5044.jpg"></article>]]></description>
+            <link>https://thegrid.ai/davidgiesbrecht/6981adc2-a0c5-435c-8c1b-3c5a468ed46e/index.html</link>
+            <guid isPermaLink="false">6981adc2-a0c5-435c-8c1b-3c5a468ed46e</guid>
+            <pubDate>Thu, 04 Feb 2016 14:54:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[House of Cards]]></title>
             <description><![CDATA[<article><h1>House of Cards</h1><p>Frank Underwood - Kevin Spacey</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15df1782db883b149272e98be2028cd7f45c98bc.jpg"></article>]]></description>
             <link>https://thegrid.ai/davidgiesbrecht/house-of-cards/index.html</link>
             <guid isPermaLink="false">8975e0dd-e750-46e1-b5b5-41f0c400c3dd</guid>
             <pubDate>Thu, 04 Feb 2016 13:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Film Stills]]></title>
-            <description><![CDATA[<article><h1>Film Stills</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7046fea2916e149267af5c23fd821b7c54507cda.jpg"></article>]]></description>
-            <link>https://thegrid.ai/davidgiesbrecht/6981adc2-a0c5-435c-8c1b-3c5a468ed46e/index.html</link>
-            <guid isPermaLink="false">6981adc2-a0c5-435c-8c1b-3c5a468ed46e</guid>
-            <pubDate>Thu, 04 Feb 2016 14:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
